@@ -1,5 +1,5 @@
 {
-  "name": "open-api-mocker",
+  "name": "@nfq/open-api-mocker",
   "version": "1.11.0",
   "description": "A mock server based in Open API Specification",
   "main": "lib/open-api-mocker.js",
@@ -44,7 +44,7 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "faker": "^5.5.3",
+    "@nfq/faker": "^5.5.7",
     "js-yaml": "^4.1.0",
     "json-refs": "^3.0.15",
     "lllog": "^1.1.2",
